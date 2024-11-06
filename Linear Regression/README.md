@@ -11,10 +11,10 @@ Linear-regression models are relatively simple and provide an easy-to-interpret 
 #### Simple Linear Regression
 Simple Linear Regression
 This is the simplest form of linear regression, and it involves only one independent variable and one dependent variable. The equation for simple linear regression is:
-Y = β~0~ + β~1~*X
+Y = β$_{0}$ + β$_{1}$*X
 
 where:
 Y is the dependent variable
 X is the independent variable
-β~0~ is the intercept
-β~1~ is the slope
+β$_{0}$ is the intercept
+β$_{1}$ is the slope
