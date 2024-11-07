@@ -16,5 +16,5 @@ Y = β$_{0}$ + β$_{1}$*X
 where:
 Y is the dependent variable
 X is the independent variable
-β$_{0}$ is the intercept
-β$_{1}$ is the slope
+β<sub>0</sub>$ is the intercept
+β</sub>1</sub> is the slope
