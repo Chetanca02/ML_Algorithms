@@ -42,19 +42,4 @@ X<sub>0</sub>, X<sub>1</sub>, X<sub>2</sub>, X<sub>n-1</sub> are the independent
 In simple terms, the best-fit line is a line that best fits the given scatter plot. Mathematically, you obtain the best-fit line by minimizing the Residual Sum of Squares (RSS). Linear Regression aims at finding the best values for the coefficients to find the Best Fit Line.
 
 ###### Loss Function for Linear Regression
-The loss function helps to quantify how good the model works. Commonly used metrics are:
-- Mean-Squared Error (MSE): MSE works by squaring the distance between each data point and the regression line (the red residuals in the graphs above), summing the squared values, and then dividing by the number of data points.
-
-![MSE](image-1.png)
-
-- Mean-Absolute Error (MAE): MAE works by taking the absolute values of the distance between each data point and the regression line (the red residuals in the graphs above), summing the absolute values, and then dividing by the number of data points.
-
-![MAE](image-2.png)
-
-- R-Squared: The most popular goodness of fit measure for linear regression is r-squared, a metric that represents the percentage of the variance in y explained by our features x. More specifically, r-squared measures the percentage of variance explained normalized against the baseline variance of our model (which is just the variance of the mean):
-
-![R-Squared](image-4.png)
-
-![Explained & Unexplained Variance](image-3.png)
-
-The highest possible value for r-squared is 1, representing a model that captures 100% of the variance. A negative r-squared means that our model is doing worse (capturing less variance) than a flat line through mean of our data would.
+The loss function helps to quantify how good the model works. 
