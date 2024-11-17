@@ -3,7 +3,7 @@
 
 
 ## Introduction to Machine Learning
-Machine Learning is a branch of Artificial intelligence that focuses on the development of algorithms and statistical models that can learn from and make predictions on data. The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable.
+Machine Learning is a branch of Artificial intelligence that focuses on the development of algorithms and statistical models that can learn from and make predictions on data. The variable(s) you want to predict is (are) called the dependent variable(s) or label(s). The variables you are using to predict the label's value is called the independent variables or the features.
 
 When it comes to using computer to perform tasks on behalf of humans, we always need to give instructions to the computer in form of a computer program. Most programming frameworks are about breaking down the main task into composable problems.
 Traditional programming languages typically take data and (business or solution) rules as input and apply the rules to the data in order to come up with answers as output. For example, a traditionally programmed sales analysis application will read in sales data along with (business or sales) rules, and then apply those rules to the data and output the key trends, analytics or insights. Being a developer, one is always concerned about the logic or rules he/she writes to execute certain tasks.
@@ -27,8 +27,3 @@ Overall, a data scientist can be many things, but the main functions are to:
 - Depending on workplace, compile code to .py format and/or pickled model
 
 When we talk about Deep Learning, we are talking about algorithms capable of mimicking the actions of the human brain thanks to neural networks, hence the term Artificial Intelligence. It is often explained that the difference between Machine Learning and Deep Learning is that Machine Learning algorithms will process quantitative and structured data (numeric values), while Deep Learning algorithms will process unstructured data, such as sound, text, image. So the difference is Feature Extraction. Although, Deep Learning is a subset of Machine Learning.
-
-
-![Types of Machine Learning Algos (Credit: datasciencedojo)](image-2.png)
-
-![Taxonomy of ML](image-3.png)
